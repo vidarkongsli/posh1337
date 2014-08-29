@@ -3,7 +3,7 @@ posh1337
 
 This is plain sillyness. Get your 1337 fix in PowerShell.
 
-* Usage
+# Usage
 
 ```posh
 Import-module leet.psm1
@@ -12,7 +12,7 @@ Write-leet 'Say something in leetspeak'
 ```
 ![Leet result](https://raw.githubusercontent.com/vidarkongsli/posh1337/master/images/1.png)
 
-* Quick install
+## Quick install
 ```posh
 iex ((new-object net.webclient).DownloadString('http://kongs.li/1337run'))
 'Hello to you too' | leet
