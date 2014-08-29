@@ -3,7 +3,7 @@ posh1337
 
 This is plain sillyness. Get your 1337 fix in PowerShell.
 
-# Usage
+## Usage
 
 ```posh
 Import-module leet.psm1
